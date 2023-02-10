@@ -4,4 +4,4 @@ This repository contains [Frontend Mentor](https://www.frontendmentor.io/challen
 
 Comments and suggestions can be sent via [@SamuelBeovides](https://twitter.com/SamuelBeovides)
 
-GitHub landing page: [](https://alexbeovides.github.io/frontend-mentor/)
+GitHub landing page: [https://alexbeovides.github.io/frontend-mentor/](https://alexbeovides.github.io/frontend-mentor/)
