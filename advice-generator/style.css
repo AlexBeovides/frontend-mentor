@@ -17,7 +17,7 @@ span, p ,q {
 
 /*  /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////   */
 
-.main-container {
+.main-container { 
     background-color: hsl(218, 23%, 16%);
     position: relative;
     width: 100vw;
@@ -54,8 +54,12 @@ span, p ,q {
     color:  hsl(193, 38%, 86%);
 }
 
-.pattern-divider-mobile {
+.pattern-divider {
     margin-bottom: 25px;
+    height: 16px;
+    width: 295px;
+    background-image: url(./images/pattern-divider-mobile.svg);
+    background-position: center;
 }
 
 .dice-container {
@@ -131,5 +135,10 @@ span, p ,q {
 .advice-container {
     margin-top: 0;
 } 
+
+.pattern-divider {
+    background-image: url(./images/pattern-divider-desktop.svg);
+    width: 444px;
+}
 
 }
